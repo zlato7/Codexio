@@ -1,0 +1,36 @@
+span {
+ display: inline-block;
+  height:14.28vh;
+}
+.first{
+  background-color: #702869;
+}
+.second{
+background-color: #624080;
+}
+.third{
+background-color: #4f5195;
+}
+.fourth{
+background-color: #325ca9;
+}
+.big{
+width:60%;
+}
+.small{
+width:30%;
+}
+.bigWhite{
+width:40%;
+}
+.smallWhite{
+width:10%;
+}
+.empty{
+width:100%
+}
+
+
+
+
+
