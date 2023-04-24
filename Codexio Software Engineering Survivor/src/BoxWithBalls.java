@@ -1,6 +1,6 @@
-import java.util.ArrayList;
-import java.util.List;
+import java.util.HashSet;
 import java.util.Scanner;
+import java.util.Set;
 
 public class BoxWithBalls {
 
@@ -11,7 +11,7 @@ public class BoxWithBalls {
     int ballsToRemove;
     int allBalls = 0;
     int currentBallsInput = 0;
-    List<String> colors = new ArrayList<>();
+    Set<String> colors = new HashSet<>();
     //"Color: count"
     String line = scanner.nextLine().trim();
 
